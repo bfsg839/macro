@@ -1,0 +1,986 @@
+Bridging Innovation System Research and Development
+Studies: challenges and research opportunities
+
+Bengt-Åke Lundvall1
+
+, CBS, Aalborg University, Denmark,
+
+Jan Vang, Copenhagen Institute of Technology, Aalborg University, Denmark
+KJ Joseph, Centre for Development Studies (CDS), India
+Cristina Chaminade, Circle, Lund University, Sweden
+
+1. Introduction
+This paper links innovation system analysis to economic development. Both fields are
+young and interdisciplinary. The origins of research on innovation systems goes back to
+the early 1980s (Freeman 1982, Lundvall 1985, Freeman 1987) although it links to
+several predecessors such as Babbage (1832, 3rd edition), List (1941) or Marshall (1965).
+Development economics, on the other hand, took off in the 1940s (Rosenstein-Rodan
+1943) but, since then, it has been going through so many dramatic changes that yet
+cannot be characterised as a ‘mature’ field.
+In the recent years, there has been a renewed interest on applying the innovation system
+concept in developing countries. However, some critical questions remained unanswered:
+Is innovation system a useful concept for understanding and explaining what goes on in a
+developing country? Can it be used as a tool and a framework for agents and agencies in
+charge of designing public policy and business innovation strategies? The assumption
+behind this paper is that we can answer a conditional ‘yes’ to both of these questions and
+1 Corresponding author, bal@business.aau.dk 2 It is useful to keep in mind, that the innovation system concept originated from an analysis of ‘national’
+innovation systems (Freeman 1982, Freeman 2004) and that the regional and sectoral systems have been
+both inspired by and reacted to this original formulation. Arguably, the national level is the one that
+
+4
+
+in the first part of this paper we try to specify the conditions and we do so in a dialogue
+with critiques developed within the community of evolutionary and development
+scholars.
+Another important question is how the approach fits into the historical and current trends
+in development economics. In the second part of the paper we give a brief assessment of
+how development economics has evolved and we draw some lessons for a research
+strategy. We will argue that the crisis of the first generation of development economics
+that was represented by scholars such as Nurkse, Myrdal, Hirschman, Singer and Sen has
+left a void in development economics that cannot be filled neither by mainstream
+neoclassical economics nor by ‘new growth theory’. We see the innovation system
+approach as a serious candidate to fill this void.
+The paper is structured as follows. In the next section we review the concept of
+innovation system (in dialogue with other alternative concepts like national learning
+systems), the different forms of studying innovation systems and the critical dimensions
+to consider when studying innovation systems, particularly in developing countries.
+Section 3 reviews the recent evolution of Development Economics, pointing out to the
+main weakness of this discipline, particularly when it comes to the analysis of the factors
+underlying under-development. Section 4 proposes and discusses how innovation system
+research can contribute to development economics and vice-versa. The paper concludes
+highlighting the main research gaps in innovation systems and development and proposes
+a future research agenda in this topic.
+
+2. Innovation systems research
+2.1. The narrow and broad definition of innovation systems
+The initial work on innovation systems by Freeman (1987), Lundvall (1992) and Nelson
+(1993) operated at the national level. It inspired the work on regional (Asheim and
+Gertler, 2004), sectoral (Malerba, 2002, 2004) technological (Carlsson and Stankiewitz
+
+5
+
+1995) and corporate levels (Granstrand 2000). Common for these contributions was that
+they deviated from the linear approach to technological progress and regarded
+innovations at micro, meso and macro level as a driving force behind growth. It went
+beyond the narrow confines of product and process innovation, focusing on interactive
+learning and emphasized inter-dependence and non-linearity wherein institutions play the
+central role (Joseph 2006).
+Almost from the beginning, innovation system research has encompassed two different
+perspectives, a narrow one linking innovation to science and a broader one encompassing
+learning, innovation and competence building (Lundvall 2007). While acknowledging the
+different scales in which the innovation system concept can be applied, the following
+discussion will be mainly focused on the national level – national innovation systems
+(NIS)2
+.
+NIS in a narrow perspective, in tune with the earlier analyses of national science systems
+and national technology policies (Mowery and Oxley 1995), aimed at mapping indicators
+of national specialization and performance with respect to innovation, research and
+development efforts and science and technology organizations. In contrast, the broader
+approach to NSI takes into account social institutions, macro economic regulation,
+financial systems, education and communication infrastructures and market conditions as
+far as these have impact on learning and competence building process (Gu and Lundvall
+2006). It links the micro behaviour to the system level in a two-way direction. Changes
+at the system level are seen as outcomes of interactions at the micro level whereas the
+system shapes the learning, innovation and competence building at the micro level.
+The bearing of the broad and narrow definitions of innovation system in a developing
+
+country context may be explained by considering the distinction between a STI (Science-
+Technology-Innovation) mode and a DUI (Doing Using and Interacting) mode of
+
+innovation as articulated by Jensen et al (2007) and Lundvall (2007). The STI mode of
+2 It is useful to keep in mind, that the innovation system concept originated from an analysis of ‘national’
+innovation systems (Freeman 1982, Freeman 2004) and that the regional and sectoral systems have been
+both inspired by and reacted to this original formulation. Arguably, the national level is the one that
+illustrates more clearly the differences between the narrow and the broad notion of innovation system that
+will be discussed in this paper.
+
+6
+
+innovation, in tune with the narrow definition of innovation system, focuses on
+innovations based upon R&D-efforts. This suggests an innovation model which is based
+on experimentation (typically in labs) formalisation, and codification of the identified
+knowledge. However, the STI mode constitutes only one of the pillars of the learning and
+innovation process. Much learning, especially of tacit and localised knowledge, is
+through the DUI mode that refers to learning at the job as employees face on-going
+changes that confront them with new problems and as well learning taking place in an
+interaction with external customers. The DUI mode, given its focus on interactive
+learning through structures and relationships, is in tune with the broader definition of
+innovation system.
+We will argue that narrow definitions of the national innovation system are of limited
+relevance when it comes to understand the problems of less developed economies.
+Actually they are misleading when it comes to inform innovation policy strategy
+everywhere. This may be illustrated by the debate on ‘innovation paradoxes’ for Europe
+as a whole and in many individual countries, where investment and progress in science
+does not match innovation outcomes and economic performance (Lundvall 2007).
+But this leaves us with the task to specify what we mean with the ‘broad’ definition.
+Broadness and holism are not attractive terms in themselves since they might signal lack
+of clarity and precision etc. And there has been a criticism of the broad definitions
+pointing out to the difficulties selecting which institutions, organisations and structures
+should be included and what could be excluded. An important aim with this paper is to
+bring this discussion some steps ahead.
+In the box below a number of definitions of (national) innovation systems have been
+listed. It is obvious that they have in common first a reference to ‘institutions’ and second
+a focus on ‘knowledge’ and/or ‘technology’.
+
+7
+Box 1.: Definitions of National Innovation Systems
+“... The network of institutions in the public- and private-sectors whose activities and
+interactions initiate, import, modify and diffuse new technologies” (Freeman, 1987)
+“... The elements and relationships which interact in the production, diffusion and use of new,
+and economically useful knowledge... and are either located within or rooted inside the borders
+of a nation state”(Lundvall, 1992)
+“... The set of institutions whose interactions determine the innovative performance of national
+firms” (Nelson and Rosenberg, 1993)
+“... The national system of innovation is constituted by the institutions and economic structures
+affecting the rate and direction of technological change in the society” (Edquist and Lundvall,
+1993)
+“... A national system of innovation is the system of interacting private and public firms (either
+large or small), universities, and government agencies aiming at the production of science and
+technology within national borders. Interaction among these units may be technical, commercial,
+legal, social, and financial, in as much as the goal of the interaction is the development,
+protection, financing or regulation of new science and technology” (Niosi et al., 1993)
+“... The national institutions, their incentive structures and their competencies, that determine the
+rate and direction of technological learning (or the volume and composition of change generating
+activities) in a country” (Patel and Pavitt, 1994)
+“... That set of distinct institutions which jointly and individually contribute to the development
+and diffusion of new technologies and which provides the framework within which governments
+form and implement policies to influence the innovation process. As such it is a system of
+interconnected institutions to create, store and transfer the knowledge, skills and artifacts which
+define new technologies” (Metcalfe, 1995)
+Source: Niosi, 2002, p. 292
+
+8
+
+Several of the definitions refer to system components and relationships. But a system can
+also be defined in terms of what it does (its functions). This alternative approach is the
+one proposed by Edquist (2005) and others (Galli & Teubal, 1997; Johnson & Jacobsson,
+2003; Liu & White 2001; Rickne, 2000).
+These authors, applying the functional approach, argue that the innovation system major
+function is to bring forward innovations or to create new knowledge. Scholars in this line
+of research define different sub-functions or activities that contribute to this overall
+function. Edquist (2005) argues that the lack of agreement on where to draw the lines
+around the innovation system makes the concept ‘diffuse’ and that this lack of clarity
+constitutes a barrier for further progress toward a more ‘rigorous’ and ‘theoretical’
+concept. Rather than defining the system as constituted by organizations it should be
+defined by specifying different functions. He lists ten such activities/functions/factors
+influencing innovation: Research and development, competence building, formation of
+new product markets, articulation of user needs, creation and change of organizations,
+networking around knowledge, creating and changing institutions, incubating activities,
+financing innovation, and consultancy services (Edquist, 2005).
+It is true that all the listed factors may be seen as contributing to or being media for
+innovation. And the point made that the same activity may be organized differently in
+different national systems is certainly relevant at least for some of the activities. We
+would also agree that such lists may be used as check-lists for governments to make sure
+that the innovation policy pursued does not become too narrowly defined.
+But to conclude that agreeing on such a list is the most useful way to ‘create rigour’ and
+scientific progress might not be correct. Several other activities/functions/factors
+influencing innovation could be listed (five candidates that might enter the top ten as
+‘factors influencing innovation’ are: competition, openness to international trade and
+capital flows, labor market dynamics, social welfare systems and ‘social capital’). Saying
+
+9
+
+that further research will help us converge on the right ones is not a useful response to
+this selection problem3
+.
+
+While it might be unsatisfactory to define the innovation system in terms of its
+organizational components and their interactions we find it equally unsatisfactory to do it
+by listing activities or functions. The third way being proposed here is to focus upon the
+innovation process and to draw upon innovation theory based upon stylized facts and
+rooted in an evolutionary perspective.
+It should be pointed out that we are interested in linking innovation and macroeconomic
+performance. We do not see it as the function of the national innovation system to
+maximize the amount of innovation. We are interested in understanding both how
+innovation takes place and how it is transformed into macroeconomic performance. This
+corresponds to the perspective characterizing the original work on innovation systems
+(Freeman 1982, Freeman 1987 and Freeman and Lundvall 1988).
+On this basis we would propose the following definition:
+“The national innovation system is an open, evolving and complex system that
+
+encompasses relationships within and between organisations, institutions and socio-
+economic structures which determine the rate and direction of innovation and
+
+competence building emanating from processes of science based and experience
+based learning.”
+
+The definition highlights three important issues:
+1. That innovation and learning will reflect the combination of prevailing institutions
+and the socio-economic structure. This was a basic idea in Lundvall (1992) where
+3 The listing echoes Denison’s ‘growth accounting’ exercises where attempts were made to reduce the
+relative size of the ‘residual’. It has in common with such efforts a certain agnostic approach where all
+factors are treated as equally important and without systematically linking them to each other. In this sense
+it is a move toward less theory rather than more theory. This is reflected in the disturbing lack of
+consistency in the list, i.e. the heterogeneous character of its elements. This way of defining innovation
+systems actually exaggerates what we do not know and defers from drawing upon what we do know
+regarding innovation.
+
+10
+
+it was emphasized that what you do (as reflected in the economic structure – the
+presence of industrial sectors) will reflect what you know which, in turn, will be
+reflected in what you learn. This starting point is of fundamental importance for
+developing countries since it opens up the possibility to manipulate the pattern of
+specialisation so that the rate of learning and competence-building is high.
+2. The definition also specifies that competence building is the other side of the
+process of innovation. Sometimes ‘learning’ is used to refer mainly to passive
+adaptation to changing circumstances. We see the creation of capabilities in firms
+and the formation of competences among people as important outcomes of
+processes of “active” learning.
+3. Finally, and this is very important, the definition specifies that innovation is
+rooted not only in science-based learning but also in experience based learning
+(broad definition of innovation systems)
+
+It is true that the sets of ‘organisations and its relationships, institutions and socio-
+economic structures’ that are evoked by this definition are very broad indeed. We need to
+
+take into account aspects of education and training, social policies that underpin social
+capital and interactive learning as well as the functioning of labour markets and the
+organisation of firms. At this point we need to consider Edquist’s critical remark that
+‘Within a geographical area the whole socio-economic system cannot, of course, be
+considered to be included in the SI.’ (op. cit. p.200). This common sense remark might
+not be correct, however. The point is that we look at each of these elements from a
+specific perspective – how they contribute to innovation and competence building.
+Alternatively we might therefore define the innovation system as a focusing device to be
+applied to the national economy and contrast it with the focusing device offered by
+neoclassical economics:
+‘the (national/regional/sectoral) innovation system is a focusing device aiming at
+analyzing and understanding processes of innovation (rather than allocation) where
+agents interact and learn (rather than engage in rational choice). The aim of using
+this device is to find out which alternative institutional and organizational set-ups
+
+11
+
+support stronger dynamic performance of a (national/regional) economy or a
+sector.’
+
+The basic underlying proposition is that the form and content of organizations,
+institutions and socio-economic structures that appear as most attractive when we focus
+upon economic change and agents that learn will not be the same as when the focus is
+upon allocation of existing resources on the basis of rational agents. It is also taken into
+account that while different institutional set-ups may be more or less efficient there is no
+single ‘optimal’ way to organize a national or regional economy. As we shall argue
+below, this proposition is true everywhere. But it is not least true in the context of a
+developing country. It follows from this that while the interest in the impact of
+technology on growth is in common the theoretical core of national innovation studies is
+incompatible with New Growth Theory based on revised neoclassical assumptions.
+2.2. National, regional or sectoral innovation systems? – Different levels of
+aggregation
+The focus of Freeman’s unpublished OECD-paper from 1982 where the concept ‘national
+innovation system’ appeared for the first time was on how countries could build
+knowledge and knowledge infrastructure at the national level with the aim to promote
+economic development and international competitiveness. A key reference in the paper
+was to Friedrich List (1842) and his concept ‘the national system of production’. Freeman
+pointed out that List was concerned that applying Adam Smith’s invisible hand and his
+‘cosmopolitan’ strategy would leave countries that were less developed than Great
+Britain permanently and increasingly behind. List pointed to the need for national
+governments to be active and build infrastructure and invest in knowledge. In this context
+he argued that the most important form of capital was neither physical nor financial – it
+was ‘mental’ – today we would call it ‘intellectual’. He also pointed to the need to protect
+‘infant industries’ until they could became strong enough to compete on equal terms with
+firms from England.
+
+12
+
+To the extent that a major concern of many developing countries today is to bring about
+economic transformation and catch up with the developed world the innovation system
+perspective as proposed by List should be directly applicable to the reality of developing
+countries. But there has been some scepticism among scholars who have worked in the
+tradition of development economics (Lall 1992, Viotti 2001, Matthews 1999 and others)
+who argue that building technical capabilities and to promote learning are legitimate
+concerns while ‘innovation’ sets the goal too high for less developed countries. And it
+has also been argued that there is no full-blown ‘system’ of innovation in a less
+developed country that can be studied. Rather the task is to develop strategies to create
+such a system (Arocena and Sutz, 2000).
+Nonetheless, more and more, national governments in developing countries refer to
+national (and regional) innovation systems as a framework for designing national (and
+regional) development strategies. The most important recent example is China where the
+new long term plan for science and technology explicitly points out that the plan has been
+designed on the basis of a national innovation system perspective.
+2.3. National innovation systems or national learning systems?
+Several authors including Viotti (2002) and Matthews (1999) have argued against the use
+of the concept innovation system and in favour of the concept ‘learning system’. Viotti
+argues that innovation system should be reserved for developed countries where the
+leading firms introduce innovations that are new for the world. In less developed
+countries incremental innovation, diffusion and learning may take place but not
+innovation (stricto senso). He then goes on to make a distinction between Active and
+Passive learning systems using Korea and Brazil as illustrations.
+While Viotti’s comparative analysis is extremely interesting and useful we do not agree
+with the starting point. Much of the early work on innovation systems was developed in
+connection with small countries such as Sweden, Norway, Denmark and Finland
+(Freeman and Lundvall 1987, Lundvall 1988). These countries prosper not because their
+firms develop unique new innovations for the world market but because their firms have
+developed a capacity to absorb and use new technology developed elsewhere (see also
+
+13
+
+Fagerberg, Mowery and Verspagen 2008). Taking Viotti seriously would imply that these
+countries have learning systems but not innovation systems – perhaps we would end up
+with innovation systems only in the US, Japan, the UK, France and Germany
+One reason why Viotti wishes to reserve the innovation system for those countries that
+develop radically new technology is that he finds the use of ‘innovation process’ as
+covering both original development, diffusion and use of new technology too vague. But
+to find out where new ideas originate from is not always easy and from the point of view
+of economic performance it is less important than understanding how they are diffused
+and used. As Chris Freeman puts it: despite similarly large investments in R&D by
+various industrialized and semi-industrialized countries starting in the 1950’s and 60’s
+“evidence accumulated that the rate of technical change and of economic growth
+depended more on efficient diffusion than on being first in the world with radical
+innovations and as much on social innovations as on technical innovations” (Freeman,
+1995, p. 10).
+Therefore it is important to assess to what degree the original set of ideas developed
+around the concept of national system of innovation are valid in relation to less developed
+
+countries operating in a globalising context. As we shall see the scepticism is well-
+founded when we operate with narrow definitions of innovation and innovation systems
+
+but not when we operate with the broad understanding as it was presented in the founding
+work by Christopher Freeman and the Aalborg-school (Freeman 1987, Lundvall 1992).
+Finally, we would like to stress that in all innovation systems technical change and
+economic growth at the national level are the outcome of what innovative activities that
+take place in the whole population of firms. Having a long tail of slow adopters and a few
+world leading firms may be less attractive than having many firms that are quick adopters
+without any world leaders. The performance of the national innovation system will reflect
+technical and organisational change in the industrial system as a whole and therefore
+there is no reason why we should promote world leadership rather than quick follower
+strategies. Big countries such as Brasil, India and China may for different reasons have
+aspirations to become world leaders in specific technologies - for instance in order to
+
+14
+
+avoid technological dependence when it comes to what the US may define as ‘strategic
+technologies’ but for most countries this is not the best way to promote competitiveness
+and growth.
+4
+
+2.4. The informal and formal dimension of innovation systems
+There is a strong bias in theory as in policy to focus upon what can be easily measured
+and to neglect what appears to be impossible or difficult to measure. The core of any
+standard study of (national) innovation systems will thus contain data on R&D-efforts
+and patents. If data based upon innovation surveys are accessible these might be added
+but most policy makers seem to remain reluctant to go outside the traditional data sets
+relating to R&D (Arundel 2006).
+Institutions and policies studied are mainly those directly or indirectly related to R&D
+activities sometimes inspired by triple helix concept and since it is more easy to measure
+the performance of single firms and knowledge infrastructure organisations the ‘quality
+of relationships’ between them is normally not captured by the analysis.
+This is problematic since the elements of the innovation system that have the most
+important impact upon the learning capacity of the whole system may be informal and
+difficult to measure. Based on Schoser (1999) we distinguish not only between what
+might be included in narrow and broad definitions of innovation systems but also
+between formal and informal elements and relationships. In Table 1 we have included
+some examples of elements considered in each field.
+Table 1. Interaction between formal and informal elements of the innovation system
+
+Narrow Broad5
+
+4 If Viotti had come up with the proposed terminology 25 years ago it might have been worth considering.
+It might have helped avoid the current bias toward science-based learning. It is obvious that many policy
+makers and analysts attach to innovation the same narrow meaning as Viotti. The result has been that
+references to national innovation systems have been used to promote science in general or to impose
+market governance on universities. Now it is too late to change the vocabulary: The innovation system has
+become part of policy language world-wide – what is needed now is to re-conquer the concept and bring it
+back to what was intended with it 25 years ago.
+5 Includes the organizations and networks included in the narrow concept of IS as well
+
+15
+
+Formal (1)
+Science& Technology
+organizations, institutions and
+formal networks
+
+(2)
+
+Organizations supporting innovation in
+general, institutions
+& formal networks
+
+Informal (3)
+
+S&T informal institutions
+and informal networks
+
+(4)
+
+Informal institutions influencing
+innovation and informal networks (like
+cultural and historical values)
+
+Source: Adapted from Schoser (1991)
+
+The functioning of universities and research institutions, patents and publications or
+technology policy and programs are examples of components of the formal and narrow
+innovation systems. The educational and financial system, the environmental competition
+and policy or the labor market are other organizations and institutions to be included in
+the broad and formal definition of the innovation system.
+On the other hand, elements such as the willingness of firms to cooperate with scientific
+institutions or the closeness of relationships between companies and technology policy
+might be considered as part of the informal and narrow system of innovation; while the
+quality of the relationships between customers and suppliers, the degree of trust in the
+society or the values of the educational system are informal items to be considered under
+the broad definition of innovation systems.
+So far the focus of innovation system research and innovation policy has been on formal
+elements and narrow definitions. But the mode of innovation as well as the performance
+of the system will reflect that the narrow and broad systems as well as the formal and
+informal systems are extremely interdependent For example:
+1. The efficiency of efforts taking place in the formal narrow system (1) will reflect
+the informal narrow system (3). For example, interactive learning across
+organisations as well as learning within organisations will depend upon ‘informal
+cognitive and behavioural patterns in the innovation processes.
+
+16
+
+2. The informal narrow system (3) will be rooted in the informal broad system (4).
+For example, the business culture will reflect the broader pattern of ‘cultural and
+historical factors’.
+3. Cultural and historical factors (4) will in the long term be influenced by changes
+in the formal broad system (2). Here we would add agrarian reform, democratic
+education systems, more or less egalitarian income distribution, transparency, rule
+of law, social policies compensating victims of change and policies restricting
+corruption and ethnical conflict.
+The Nordic countries – especially Norway and Denmark – ought to be handicapped by
+small size and by a rather weak knowledge base. Their record in terms of radical
+innovation is also weak. The fact that their economies have performed well in terms of
+economic growth has more to do with the causalities referred to above. They are
+outstanding in absorbing ideas from abroad and to some degree this has to do with the
+educational level. But the high level of generalised trust is also important. The high level
+of trust in the Nordic economies has to do with agrarian reform, democratic education
+systems, egalitarian income distribution, social policy, transparency, rule of law and
+policies restricting corruption and ethnical conflict. And empirics show that the high level
+of trust is reflected in more frequent inter-firm interaction in innovation processes as well
+as in a much broader participation in processes of change within firms. This specific
+mode of innovation is especially supportive for learning and absorption of new
+technology.
+The reality of most developing countries is far away from the Nordic model. But,
+nonetheless, it might be the case that strong efforts to upgrade the formal narrow system
+will prove to be without major effect without upgrading aspects of the informal part. The
+fact that Korea succeeded both with agrarian reform and with building an all
+encompassing education system may have been crucial for creating the informal basis
+that supported its narrow innovation system. Democratising working life and building a
+welfare state may be important next steps for Korea. In less developed countries offering
+general access to modest forms of education, health service and food for all children
+
+17
+
+without regard of social and ethnical origin might be a kind of reform that would
+contribute to generalised trust that can spill over to the innovation system.
+This implies that innovation research needs to develop new tools and indicators to
+analyse and capture difficult slippery concepts such as ‘social capital’ and ‘generalised
+trust’. It also implies that ‘innovation policy’ needs to be anchored not in one single
+ministry but rather at the very top of the government and in strategic bodies aiming at
+building sustained learning at all levels of the economy.
+
+3. Development economics
+Several authors point to the paper by Rosenstein-Rodan (1943) in Economic Journal as
+marking the beginning of development economics as a sub-discipline in economics. It
+was followed by major contributions came in the fifties (Dobb 1951, Singer 1952, Nurkse
+1953, Lewis 1954, Hirschman 1958) but the analysis was far from unified. There were
+heated debates regarding balanced versus imbalanced growth as well as between Marxists
+such as Dobb and Baran (1957) and more liberal economists such as Lewis.
+Nonetheless there was some common ground for most of the economists taking part in
+the debate. Using inspiration from Keynesian growth models and from Marxian theory of
+capitalist accumulation it was argued that an increase in the rate of investment was
+necessary in order to raise the rate of growth. The analysis of Lewis demonstrating the
+dramatic differences in productivity between traditional informal sectors and agriculture
+on the one hand and manufacturing on the other hand saw the transfer of labour from the
+low productive sectors to the high productive ones as an important prerequisite for
+sustained growth.
+Most of the development economists were in favour of import substitution and saw the
+role of the state as protector of infant industries as legitimate and necessary. This was
+based upon a certain pessimism regarding the potential for manufacturing exports – a
+
+18
+
+pessimism that had real background in the period 1950-70 when most of the growth in
+international trade took place within the OECD-area (Waterbury 1999).
+Less than forty years after Rosenstein-Rodan’s seminal article first Hirschman (1981) and
+then Amartya Sen (1983) recognised that the era of development economics based upon
+this common ground had come to a close. Hirschman pointed out that the development
+economists had overestimated the power of their ideas to overcome underdevelopment
+and also that there had been lack of respect for the emotions and culture of those who
+were expected to realise their ideas.
+Amartya Sen recognised that the position of development economics had been weakened.
+But he argued that their basic ideas had not been refuted by what had actually happened.
+Those countries that have had success in catching-up actually followed most of the
+advice given by the classical development economists. Specifically, while growth in
+some of these countries became export-led it did so after periods of import substitution
+that created the basis for the new export industries.
+But the pro-market neo-liberal criticism of Keynesianism and of state-intervention had a
+major impact on all sub-disciplines in economics and it was especially devastating for
+development economics. There are different interpretations of what went wrong for
+development economics. One interesting proposal comes from Noble Prize Winner in
+economics Paul Krugman (1995) who argues that the main reason was not political but
+the fact that the protagonists could not present their argument in a language that the
+mainstream in economics could understand. (Not surprisingly Krugman indicates that
+with the arrival of new trade and new growth theory the situation now has changed).
+Amartya Sen’s article is especially interesting because while it may be seen as closing
+one era of research he also opens up new avenues for research by presenting his ideas
+about capabilities and freedoms as indicators of development. He argues that what
+matters for people is not so much what they own or earn as it is what they experience and
+are able to do. Owning a bicycle without roads or belonging to a culture or a gender
+where biking is not permitted is of limited value, as Box 2 illustrates with the example of
+China.
+
+19
+Box 2. Economic growth and welfare in China
+The development in China after Amartya Sen’s article was published has
+illustrated both the relevance of traditional developmental economics and the
+need to make a distinction between growth and welfare. First it is obvious that
+the most important driver of economic growth in China is the very high rate of
+capital accumulation. And there is little doubt that government policies have
+been instrumental in establishing this process. China did not follow the
+classical doctrine of import substitution since there was a bold opening of the
+economy for imports of both commodities and foreign capital. This is where
+China now indicates that there might be a need to protect the building of
+domestic competencies that make it possible to develop ‘independent
+innovation’ (Gu et al 2008).
+Second, the divergence between indicators of economic growth and indicators
+of capabilities and well-being – including access to education and health
+services as well as to clean air and water – have been quite dramatic in China.
+Again the government is aware of the problem and it is now referring to
+‘harmonious growth’ as what should be aimed at in the future (Gu and
+Lundvall 2006b). This implies concern about regional imbalances and about
+social and ecological sustainability. The case of China is especially important
+since the outstanding economic growth of China is the single development that
+makes it possible to argue that globalisation has contributed to increased global
+equality (Wade 2005). It is not obvious that a calculation of global inequality
+on the basis of ‘capabilities’ would end up with the same result.
+
+After the demise of the ‘classical developments economics’ followed a period where
+economic development was analysed with the use of tools of standard economics6
+.
+Market failure was analysed with the most advanced tools from information economics.
+Advanced game theory was applied to manifold situations. But in both cases the
+analytical work gave few useful insights. The almost unlimited room for model
+
+6 The following is based upon material from a seminar held at in October 2005 where development scholars
+(Mookherjee 2005, Basu 2005, Banerjee 2005) made a critical assessment of their field of research.
+
+20
+
+specifications resulted in contradictory conclusions regarding policy. To quote Dilip
+Mookherjee: the result was “an embarrassment of riches when it comes to the choice of a
+theoretical model for almost any phenomenon” (Op.cit. 2005).
+This was the background for the strong move toward econometrics and evidence-based
+public policy that is still reigning the discipline. Today almost all research in mainstream
+development economics is empirical and it is driven by the use of increasingly advanced
+econometric models. ‘The key problems confronted by a typical empirical paper today
+concerns the various possible econometric biases’ (Op cit 2005). Specific new techniques
+such as the use of ‘instruments’ for potentially endogenous regressors and ‘randomised
+controlled experiments’ that can be used to inspire public policy (much in the spirit of
+research in medicine) are regarded as constituting the frontline of research.
+But Dilip Mookherjee who was the author of the central paper to which the other scholars
+added their reflections at the 2005-occasion referred to in foot-note 5 - and most of the
+others contributing to the debate - was not completely happy with the current content and
+style of research. Mookherjee’s paper had the following title ‘Is there too little theory in
+development economics today?’ and his answer to this question is yes. While he and
+others recognise that there has been important progress in the econometrics they worry
+that ‘Research papers tend to get evaluated almost exclusively in terms of their success in
+combating econometric problems often to the exclusion of the importance of the context
+or issues addressed by the analysis, the imaginativeness of the underlying hypotheses
+formulated or tested, or the importance of the findings from a wider standpoint’ (op cit).
+The general impression from this debate is first that the admirable open-mindedness and
+capacity to engage in self-critical assessment shown by Mookherje and the other
+participants in the seminar. Second it is that currently mainstream economics tends to use
+developing countries’ problems as offering interesting opportunities to make use of
+advanced theoretical models and econometric tools while the interest in understanding
+
+21
+
+the structures that lie behind underdevelopment and the mechanisms that might trigger
+development tend to end up as being of secondary importance.7
+4. Linking innovation system research to development economics
+4.1. The contribution of innovation system research to development economics
+Mookherjee and the other participants in the debate pleaded for more emphasis on
+theoretical work and specifically they pointed to several important issues where there is a
+need to develop theory:
+1. Interaction of economic processes with political institutions and norms.
+2. Replacing traditional assumptions regarding rationality with behavioural models.
+3. Endogenous evolution of preferences in public policy.
+4. Theories of institutions that relate them to specific community characteristics.
+5. Firm heterogeneity.
+
+6. Problem solving in interaction with others in which our ends and means co-
+evolve, with ends discovered and transformed in the process.
+
+7. Need to go beyond methodological individualism and rational choice.
+Most of the issues proposed are actually at the core of evolutionary economics, including
+heterogeneity of agents and agents that learn in an interaction with each other resulting in
+a transformation of their preferences. Nonetheless it is striking that the role of
+knowledge, competence building and innovation in the development process are for the
+most part not explicitly addressed in these calls for new research. The issues addressed by
+the micro-studies referred to as examples are quite specific. They relate for instance to
+the optimal use of markets when it comes to distribute of malaria nets or of the impact on
+7 One of the most interesting contributions to the debate comes from Basu who points out that the idea that
+the only form for truly reliable knowledge comes from ‘randomised controlled experiments’ is absurd since
+it implies that all that we have learnt through other forms of ‘experience’ is irrelevant.
+
+22
+
+learning of the use of flipcharts in education. There are considerations of factor markets
+but little on how those support innovation and competence building.
+The innovation system approach implies that the very focus of the analysis should be on
+the creation, diffusion and use of knowledge seen both as information and competence.
+Getting markets to allocate existing resources efficiently is important but it is not what
+drives economic development. Both markets and other institutions need to be assessed
+according to how they affect the competence of people and the capacity of organisations.
+Therefore the focus of the analysis should be on economic structures and institutions that
+support competence building among people and capacity building in organisations.
+Public policies should be designed in such a way that they get structures and institutions
+right.
+There are at least three classical and highly politicized issues that go through the debates
+in development economics. The first is on the role of governments versus markets. The
+second is about free trade and the openness of the market. The third is about
+industrialization as a necessary step toward modernization.
+We would argue that the innovation system approach has a potential to throw new light
+on these issues. One of those that insists that it is fundamental for developing countries to
+get their trade specialization right is Erik Reinert (2006). There is a great potential in
+developing the analysis of sectoral innovation systems with focus upon the potential for
+learning and competence building in different sectors, including not only activities from
+agriculture and manufacturing but also service sectors. Such studies should also take into
+account knowledge related linkages established between sectors. A major problem here
+might be to find the right level of aggregation since sectors, as they are defined in
+production and trade statistics, are quite heterogeneous and it is a challenge to group
+activities that have commonalities in terms of their learning dynamics.
+With regards to the openness of the economy, many innovation system scholars tend to
+support the view of Lewis: while there is a great potential for learning from abroad in
+global value chains or through inward foreign direct investments the actual positive
+impact will depend on the indigenous ‘absorptive capacity’.
+
+23
+
+The role of the state is at the very centre of political disagreements. While it is obvious
+that government initiatives were crucial for shaping the growth dynamics in countries like
+China (Gu and Lundvall, 2006a and Gu et al, 2008) or India, it is also obvious that most
+studies stress the need for governments to withdraw and give more space for private
+initiative. The debate is put in general and rather sharp terms by Tilman Altenburg (2008)
+and by Cimoli et al (2008). While Altenburg emphasizes government failure Cimoli et al
+criticize the assumption that ‘markets’ are the most natural institutions in the economy
+and they see active industrial policy as necessary for the promotion of economic
+development.
+4.2. The contribution of development economics to innovation system research
+Innovation system research may draw lessons from the fate of classical development
+economics and not the least from the reflections made by Hirschman and Sen at the end
+of the era. Hirschman pointed out that there was an element of arrogance in the work
+assuming that the development economists as outsiders could dictate rational behaviour
+on central actors, without considering the culture and passions of those directly
+concerned. One way to overcome this problem is to strengthen the competence and
+research capacity in the field of innovation systems and development economics within
+the developing countries. Globelics, Asialics and Cicalics are networks that have this as
+their major aim. Similar initiatives are under way in India and within Africa.
+The major message from Amartya Sen’s work over the past decades (Sen, 1983, 1999) is
+that growth in the material assets is not equivalent with growth in welfare and well-being.
+This may be seen as recognition that ‘classical development economics’ had a tendency
+to see growth as identical to development. Research on innovation and competence
+building should learn from this mistake. Not least it is clear that the current development
+in China illustrates the need to have a broader understanding of development that takes
+into account social and ecological consequences of growth strategies. One intuitive way
+to indicate such a broader perspective is to link development to different kinds of
+‘capital’.
+
+24
+
+Table 2: Resources fundamental for economic growth – combining the tangible and
+reproducible dimensions
+
+Easier to produce,
+reproduce or use
+
+Not easy to produce or
+reproduce
+
+Tangible resources 1. Production capital 2. Natural capital
+
+Intangible resources 3. Knowledge capital8 4. Social capital
+
+The table illustrates that economic growth is faced with a double challenge in terms of
+sustainability and that there is an imminent risk of undermining the basis of material
+production. In China pollution of water and air threatens the reproduction of tangible
+capital. We will argue that the production and efficient use of intellectual capital is
+fundamentally depending upon social capital. In a successful learning economy rooted in
+social cohesion and trust it is easier to engage in interactive and apprenticeship learning
+resulting in the passing on of elements of tacit knowledge from individual to individual
+and from generation to generation. This is more difficult in a context without trust and
+with long distance among professions and in hierarchies. Thus, undermining trust and
+social capital undermines the reproduction and use of intellectual capital. A development
+strategy that focuses only on production capital and intellectual capital is not sustainable.
+Finally we see a great potential in linking Sen’s analysis of individual ‘capabilities’ to the
+analysis of innovation systems. In our view the most important of all capabilities is the
+capability to learn. This capability is fundamental for all the other capabilities and it is the
+one that will shape the dynamics of welfare. To put it crudely economic development is
+about enhancing capability and opportunity to learn at all levels. Technological learning
+8 It is important to highlight that our point here is not that knowledge is easy to reproduce but that if we do
+not combine it with other dimensions (like social capital – much more difficult to reproduce) the production
+and dissemination of knowledge (particularly of a tacit nature) will be severely hampered.
+
+25
+
+is fundamentally important but so is the social and political learning that is necessary to
+build institutions and policy strategies that support competence building.
+According to Krugman (1995), the classical development economics disappeared because
+the protagonists could not speak the language of the mainstream economists – they could
+not transform their ideas into mathematical models9
+
+. What can we learn from this for
+innovation system research? There are rich possibilities to build economic models and
+pursue econometrics with reference to innovation system research. But we need to think
+differently in several important respects. First, at the micro level, we need indicators that
+reflect the quality of relationships such as trust and we need to understand how this
+quality comes out of ‘problem solving in interaction with others in which our ends and
+means co-evolve’ and we also need indicators for what is learnt in such interactions
+between individuals and organisations.
+At the aggregate level we need to take into account that national, regional and sectoral
+systems are much more diverse than individual beings. Therefore we might not aim at
+general theories about what is the best practise for developing countries and try to apply
+that globally. But neither is it satisfactory to pursue individual case studies and to assume
+that results can be generalised to other systems – this is actually one of the major
+complaints against the micro-analysis based upon controlled randomisation.
+An intermediary approach would be to use methods that make it possible to group
+systems in ‘families’ on the basis of certain commonalities and then to look for the
+underlying structures within each family. It might be more meaningful to pursue
+comparative econometric analysis within Latin America and Asia rather than to include
+countries from both continents.
+5. So, which way now?
+There are many different paths to follow for future research on innovation systems and
+economic development. The fact that there is a lot of overlap and interaction between
+9 Krugman’s analysis might be too kind to the standard economics community however. In order to remain
+within the neoclassical community you might also need to confess to a certain credo that includes
+methodological individualism, rational choice, general equilibrium as reference and markets as the most
+natural elements in the economy.
+
+26
+
+analysis of innovation systems at different levels of aggregation and that the field, while
+anchored in socio-economics, has been open for interdisciplinary collaboration is a major
+strength. It makes it more relevant than mainstream development economics where there
+is little feed-back between and micro and macro approaches and where disciplines
+outside economics are regarded with disdain. Several of the issues raised below will
+require interdisciplinary efforts.
+5.1. What is development?
+A first priority might be to give a more clear meaning to ‘development’ and to understand
+better how it relates to economic growth. Sen’s capability approach constitutes a kind of
+micro-foundation for a theory about development. We believe that it might be possible to
+develop a macro theory of development by combining Adam Smith economic perspective
+and the extension of the division of labour with George Herbert Meads’ interactionist
+perspective. According to Mead ‘civilisation’ grows out of extending who is defined as a
+‘significant other’ and he refers to the spread of markets and religion as forces that
+extends communities from village, to region, to nation etc. This may correspond to a
+transformation of social capital establishing more ‘generalized trust’.
+Another important dimension of development that is not fully reflected in Sen’s
+capabilities refers to learning and autonomy at the workplace. Economic development has
+been linked to industrialisation. And this is a process where farmers engaged in simple
+work are brought into factories with taylorist working conditions. After an immediate
+period of drastic cultural adaptation the room for learning is limited. This may be
+contrasted with the patterns in the most developed economies. Here only a small
+proportion of the workforce has taylorist (less than 10% in the Scandinavian countries) or
+simple (less than 20%) jobs. The rest are engaged in problem solving where they learn
+new things (Lorenz and Valeyre 2005). What people do and what they learn in their daily
+work is fundamental for the structuring of society and we would propose that researchers
+should pay more attention to this dimension of innovation systems. Combining different
+forms of learning correlates with innovation performance (Arundel et al 2007) and at the
+same time it may be used as an important indicator for economic development.
+
+27
+
+Deepening our understanding of the factors affecting development is another fundamental
+venue for research, particularly understanding the role of institutions in development. The
+interaction between social inclusion, governance, adequate business environment and
+development, capability building and innovation needs to be fully understood. This is an
+important research venue in which researchers in innovation systems might shed some
+light.
+5.2. Innovation, Inequality and development
+In the last Globelics conference (Mexico, 2008) one of the key themes of the conference
+was the relationship between innovation and inequality. Of special interest in the context
+of innovation system perspective would be the inequality in accessing learning (Lundvall
+1996). Innovation may be seen as part of a process of creative destruction and while some
+specific sectors and locations may benefit from it others may get worse off. Some of the
+most successful economies in the world have developed welfare states that tax the
+winners and compensate the losers by offering them some basic security in processes of
+change. Research might highlight the potential for building embryonic welfare states that
+fulfil such functions.
+In general it is important to get a better understanding of how income distribution, social
+cohesion and generalised trust relate to each other as well as to economic processes
+including interactive learning, networking and innovation. Such research might end up
+showing that there are different development paths and different modes of innovation
+where some operate with high degrees of inequality while others build upon social
+cohesion. Such studies may be helpful in showing that there are alternative policy
+strategies for developmental states.
+5.3. Understanding knowledge and learning
+One important challenge for innovation system analysis both in the more and the less
+developed parts of the world is to deepen the understanding of how different kinds of
+knowledge are created and used in the process of innovation. Some elements of
+knowledge are local and tacit, embodied in people and embedded in organizations. Other
+
+28
+
+elements are global, explicit and can easily be transferred from one part of the world to
+another.
+While information in principle can move freely from one part of the world to another
+through the use of telecommunication technologies, competence is embodied in people or
+embedded in organisations or even in institutions. But even in the case of information the
+capacity to understand and use it may be very demanding. The geographical distribution
+of people with the background necessary to make use of scientific information is
+extremely unevenly distributed and actually today the forces attracting the scientific elite
+to a limited number of places (such as the universities in Berlin, Paris, Oxford,
+Cambridge, Harvard, MIT, Stanford etc.) are strong.
+To understand how learning takes place within organizations as well as in the interaction
+between organizations is key to comprehend how systems of innovation work. While it is
+important to study national characteristics in terms of organisations that pursue R&D, it is
+equally important to understand national characteristics in terms of how firms interact
+
+with customers and to what degree different firms give employees access to competence-
+building in connection with on-going economic activities.
+
+One major challenge for research is to develop concepts that can be transformed into
+measurable indicators. Human capital measurements may represent formal investment in
+education but what people learn at the workplace or as consumers is not easy to capture
+through standard measurements. The absence of indicators makes the area less visible for
+
+policy makers and this contributes to a bias in innovation policy toward promoting STI-
+rather than DUI-activities.
+
+5.4. Innovation systems, institutions and entrepreneurship
+To understand how learning takes place it is fundamental to understand the role of
+institutions. So far most innovation system research has paid attention only to formal
+
+institutions or organizations while informal institutions such as culture, customs, time-
+horizon etc. are often ignored. Some exceptions are Lundvall (Lundvall 1992, Lundvall et
+
+al. 2006), Johnsson (Johnsson et al. 2003) or Oyelaran-Oyeyinka (2006). This is much in
+
+29
+
+line with Business systems research, varieties of capitalism research and the early
+intercultural communication research represented by authors like Hofstede (1991).
+Understanding institutions and the role they play in innovation and development is an
+issue that deserves more attention by researchers.
+Equally central is the conceptualization of the role of entrepreneurs. Despite the centrality
+of the entrepreneur in the initial work by Schumpeter on innovation (1934, 1939, 1942),
+innovation system researchers are yet to provide adequate attention towards evolving an
+institutionally grounded theory of entrepreneurship. It is worth exploring the linkages
+between national innovation styles and the essentially non-institutional entrepreneurship
+literature drawing on Burt’s structural holes and maybe even Kirzner’s analysis of the
+entrepreneur as an ‘equilibrium’ creator. It is important to sort out different
+conceptualisations of entrepreneurship. Some developing countries are leading the world
+in terms of the frequency of start up firms but suffer from too little entrepreneurship
+initiative within existing firms. Bringing in the perspective of ‘collective
+entrepreneurship’ might open up more fruitful directions for research.
+
+5.5. National, international, sectoral and regional dimensions
+Since the national level appears as central in the innovation system approach it is
+important to analyse the role of the nation state both as a political cultural phenomenon
+and as a territorial concept. There is little doubt that nation states have played a key role
+in mobilising resources and not least as frameworks for building competence through
+education. For good reasons ‘nationalism’ has got itself a bad reputation in the history of
+mankind but it might be difficult to establish the necessary developmental effort without
+some common purpose and here the nation has been an important option. But nation
+states are very different constructs in terms of the degree of size, heterogeneity and
+inequality. One priority is to specify the conditions for nation states to become
+
+30
+
+developmental and at the opposite end to explain why some nation states appear to be
+failed states (Wade 2005).
+Another priority is to understand how the different forms of opening of national and
+regional economies contribute to or hinder economic development. While the emergence
+of global value chains as well as the formation of global champions opens up the national
+and regional systems of innovation it is not obvious that the process makes them less
+important as a framework for economic development. To understand what capabilities
+and institutions that need to be established in order to benefit from different forms of
+international openness is fundamental.
+Innovation systems in developing countries are heterogeneous. Often modern sectors
+making use of advanced technology co-exist with informal sectors characterised by
+underemployment, low productivity and stagnation. In the classical development
+economics development was seen as moving labour from the primitive to the modern
+sector. This is still an important issue. But more research is needed to find out if there is
+room also for building modern activities more directly within informal sectors and for
+creating stronger links between the two types of sectors. Here the sectoral system
+approach may play a key role in pointing to cases where such strategies have been
+successful and to specify the mechanisms at work.
+Innovation systems in developing countries are heterogeneous also in terms of the
+geography of competence and knowledge. The modern activities are often concentrated
+in regional industrial clusters and they draw upon local knowledge infrastructure as well
+as on international sources of knowledge. To pursue research that compares and contrasts
+different regional systems of innovation within major emerging economies such as India
+and China may be the best way to understand the specificities of innovation systems.
+Developing analysis of how the degree of integration of such regional systems in the
+overall local economy, including activities in the informal sector may inspire industrial
+and regional policy.
+5.6. Dynamics of innovation systems
+
+31
+
+Notwithstanding the clear links between innovation system research and evolutionary
+economics, understanding the dynamics of different innovation systems and different
+evolution paths still remains a major research challenge in innovation system research,
+particularly when dealing with developing countries.
+From an evolutionary perspective, innovation systems in developing countries can
+generally be characterized as emergent innovation systems as opposed to the well
+functioned matured innovation systems of developed countries (Chaminade and Vang,
+2008). Understanding what determines the emergence of a system of innovation and how
+a system evolves over time is a major research challenge, both for academics and for
+policy makers. The lack of indicators that capture innovation and learning processes over
+time is a very important limitation for researchers interested in this line of research, that
+can only be overcome working in parallel with the development of longitudinal data sets
+and new indicators to capture the more informal aspects of innovation systems mentioned
+earlier.
+
+Another great challenge is to understand the dynamics between institutions, the socio-
+economic context and the ability of firms and other organizations to engage in interactive
+
+learning and capability accumulation and its changes over time.
+
+6. Corollary – Possible research strategies
+How to organise research in the future? What are the specific circumstances for doing
+research on innovation systems particularly in developing countries? What kind of
+information can be gathered in research and what kind of research is most worthwhile to
+pursue?
+One way of organizing research might be rather big national projects with a 2-5 year time
+horizon dominated by local scholars but integrating international experts, including
+experts from other developing countries. Such a big project may combine data from the
+micro-level of the single firm, with data on inter-firm cooperation and interaction with
+
+32
+
+knowledge structure with analysis of institutions shaping finance, labour markets and
+education systems. Within such a framework comparisons between regions taking into
+account their openness to other regions as well as the international openness would be
+very relevant.
+Another way would be systemic comparative analysis of systems of innovation across
+countries, regions and industries. Most research on systems of innovation is based on the
+analysis of one national innovation system, sectoral or regional. While individual analysis
+are useful to understand the evolution of an innovation system over time, the systematic
+comparative analysis of different systems across similar dimensions might help to
+identify similarities as well as differences in innovation systems. We cannot fully grasp
+what are the differences between the agro processing system of innovation and the ICT if
+we do not compare the same sectoral innovation systems across countries or regions.
+Only then we will be able to identify what are the sectoral specific elements that hold
+across countries or regions.
+Often statistics will be lacking and major systematic surveys may be difficult to pursue in
+a developing country. A good starting point is to contact some experienced people from
+business, public sector, trade unions and research and interview them about the problems
+to be analysed. This might lead scholars to other experts and at the end of such an
+opening round hypotheses about barriers for change as well as unexploited opportunities
+may be formulated. A wider set of agents may be called upon to qualify the hypotheses
+and on this basis it might be possible to design questionnaires and rather specific quests
+for data. This strategy takes as its starting point that there is valid knowledge based upon
+experience and that this knowledge should be used. It also has the advantage of building
+up a set of advanced users of the results of the project.
+One problem with such strategies is that the incentive structure in current academic life
+does not promote this kind of research. As mentioned before in the connection with the
+new wave of statistics in developmental economics what matters most when it comes to
+get published is the elegant use of advanced tools. Since scholars in developing countries
+are rewarded mainly on the basis of publications in international journals they need to
+
+33
+
+adjust to this reality. On the other hand the big project mentioned here constitutes an ideal
+training ground for Ph.D.-students. But without major backing from outside the academic
+community the chance to establish and pursue such projects is small.
+The road ahead is long but very stimulating and challenging. We are faced with many
+research challenges and unanswered research questions. But there is a growing
+community of researchers in innovation systems and development. Networks such as
+Globelics, Asialics or Cicalics provide a good platform for researchers around the world
+to exchange ideas, build large projects and contribute to our understanding of innovation
+systems in developing countries.
